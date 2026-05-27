@@ -3,7 +3,7 @@
 
 ## Group Code: yaelshir
 * **Shir Sharon**
-* **Yael**
+* **Yael Persky**
 
 ---
 
@@ -53,5 +53,13 @@ The experiment evaluated two distinct execution methodologies across our linguis
 * `docs/` - System engineering and software development lifecycle documentation (`PRD.md`, `PLAN.md`, `TODO.md`).
 * `data/` - Input source profiles and localized phrase outputs.
 
----
-*Developed as part of the Technology Management curriculum at Bar-Ilan University, 2026.*
+## Installation & Execution Guide
+Follow these steps to set up the environment and execute the multi-agent laboratory simulation:
+
+### 1. Prerequisites
+Ensure you have Python 3.9+ installed on your system.
+
+### 2. Install Required Dependencies
+Open your terminal/PowerShell inside the project directory and install the required translation and core analytical library packages:
+```bash
+pip install translate modules
