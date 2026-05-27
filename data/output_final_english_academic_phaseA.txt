@@ -1,0 +1,1 @@
+The proliferation of large linguistic models fundamentally redefines the paradigms of human-computer interaction, requiring rigorous frame assessments for semantic stability and cognitive alignment in multi-agent environments.

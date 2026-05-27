@@ -1,0 +1,1 @@
+L'architecture du système doit appliquer un pipeline de tokenisation localisé, validant tous les paramètres d'entrée par rapport à une contrainte d'intégration de distance vectorielle stricte avant de compiler la sortie séquentielle finale.

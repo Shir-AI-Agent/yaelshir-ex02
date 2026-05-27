@@ -1,0 +1,1 @@
+La prolifération des grands modèles linguistiques redéfinit fondamentalement les paradigmes de l'interaction homme-machine, nécessitant des évaluations rigoureuses du cadre concernant la stabilité sémantique et l'alignement cognitif dans des environnements multi-agents.

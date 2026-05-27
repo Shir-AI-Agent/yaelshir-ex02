@@ -1,0 +1,1 @@
+The system architecture must apply a local tokenization pipeline, which validates all input parameters against forcing strict integration of vector distance before assembling the final sequence output.
